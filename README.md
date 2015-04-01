@@ -7,6 +7,9 @@ This repo contains everything you need to get started in the project.
 1. Clone the project
 `git clone git@github.com:browep/AndroidHackNightChallenge.git`
 
+2. Import volley as a submodule
+`git submodule update`
+
 2. Open with Android Studio
 
 3. Find MainActivity.java
